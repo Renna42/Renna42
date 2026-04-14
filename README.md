@@ -11,12 +11,12 @@ Intersted at Linux now time.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Renna42&show_icons=true&theme=github_dark"
+    srcset="profile/stats-dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Renna42&show_icons=true"
+    srcset="profile/stats.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="Renna42's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Renna42&show_icons=true" />
+  <img alt="Renna42's GitHub stats" src="profile/stats.svg" />
 </picture>
